@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "****************************************" << endl;
+    cout << "*                                      *" << endl;
+    cout << "*        PROFIL MAHASISWA              *" << endl;
+    cout << "*                                      *" << endl;
+    cout << "****************************************" << endl;
+    cout << "* Nama    : Syukur Iman Hura           *" << endl;
+    cout << "* Jurusan : Ilmu Komputer              *" << endl;
+    cout << "*                                      *" << endl;
+    cout << "*   \"Belajar coding itu seru!\"         *" << endl;
+    cout << "****************************************" << endl;
+
+    return 0;
+}
